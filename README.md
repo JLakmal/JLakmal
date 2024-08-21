@@ -1,8 +1,9 @@
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv-KMf2GEYKYVxeDZjKsHcgVw_b1RqwdEWGlw0VcDx16mvRJrmpvwXp5SeAu4BaP8p93o&usqp=CAU" alt="MasterHead" style="width:100%;" />
 <h1 align="center">Hi 👋, I'm Lakmal Bandara</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jlakmal&label=Profile%20views&color=0e75b6&style=flat" alt="jlakmal" /> </p>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://images.app.goo.gl/ERmbMG8iHa435zDH7)"/>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*hSmwvKL1pgfHlPAb-WA_Rw.gif"/>
 - 🔭 I’m currently working on **Open Code Lab**
 
 - 👨‍💻 All of my projects are available at [https://lakmal-cv.vercel.app/](https://lakmal-cv.vercel.app/)
